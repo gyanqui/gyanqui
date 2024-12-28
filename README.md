@@ -1,6 +1,6 @@
 # <Gabriel Yanqui>
 
-Hello world! 👋
+##Hello world! 👋
 
 I'm <Gabriel Yanqui>, a passionate Computer Science student at Brigham Young University-Idaho with expertise in web development and databases. Welcome to my GitHub profile!
 
