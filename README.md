@@ -1,8 +1,8 @@
 # <Gabriel Yanqui>
 
-Hello, GitHub! 👋
+Hello world! 👋
 
-I'm <Gabriel Yanqui>, a passionate Computer Science student at Brigham Young University-Idaho with expertise in programming, databases, and web development. Welcome to my GitHub profile!
+I'm <Gabriel Yanqui>, a passionate Computer Science student at Brigham Young University-Idaho with expertise in web development and databases. Welcome to my GitHub profile!
 
 ## About Me
 
@@ -12,17 +12,11 @@ I'm Gabriel, a dedicated and detail-oriented Computer Science student with exper
 
 I'm particularly interested in **database administration**. I have knowledge in **data security, data recovery, automation, and maintenance planning** to ensure robust and efficient systems.  
 
-Currently, I work as an **Onboarding & Maintenance Specialist for Expedia**, where I onboard and maintain over 20,000 properties on the Expedia website, leveraging tools like **SQL, Excel, Xpresso, and Salesforce.**
-
-I’m eager to connect with like-minded individuals and explore opportunities in the tech industry. **Currently seeking internships!**
-
 ### Skills:
 - **Databases:** MSQL, MySQL, PostgreSQL  
 - **Languages:** Python, C#, JavaScript, HTML5, CSS3, SASS, VBA  
 - **Frameworks/Tools:** Node.JS, Express, Excel, Salesforce  
 - **Languages:** Fluent in English and Spanish  
-
-Feel free to reach out to me at **yan23004@byui.edu**.
 
 ## Projects 
 
@@ -60,8 +54,8 @@ A collaborative project that involves creating an **E-Commerce API** using **Nod
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/gabrielyanqui/) profile
-
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielyanqui/)
 
-Feel free to reach out to me at yan23004@byui.edu.
+I’m eager to connect with like-minded individuals and explore opportunities in the tech industry. **Currently seeking internships!**
+
+Feel free to reach out to me at **yan23004@byui.edu**.
