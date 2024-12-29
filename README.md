@@ -2,10 +2,6 @@
 
 ## Hello world! 👋
 
-I'm <Gabriel Yanqui>, a passionate Computer Science student at Brigham Young University-Idaho with expertise in web development and databases. Welcome to my GitHub profile!
-
-## About Me
-
 My name is Gabriel, I am a dedicated and detail-oriented Computer Science student with expertise in **MSQL, MySQL, PostgreSQL, GCP, Python, C#, HTML5, CSS3, JavaScript, Node.JS, Express, VBA, and Excel.** I have a strong foundation in programming, database management, and web development.  
 
 I'm particularly interested in **database administration**. I have knowledge in **data security, data recovery, automation, and maintenance planning** to ensure robust and efficient systems.  
