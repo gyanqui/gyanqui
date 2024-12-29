@@ -7,7 +7,7 @@ My name is Gabriel, I am a dedicated and detail-oriented Computer Science studen
 I'm particularly interested in **database administration**. I have knowledge in **data security, data recovery, automation, and maintenance planning** to ensure robust and efficient systems.  
 
 ### Skills:
-- **Databases:** MSQL, MySQL, PostgreSQL, GCP  
+- **Databases:** MySQL, PostgreSQL, GCP, SQL Server
 - **Languages:** Python, C#, JavaScript, HTML5, CSS3, SASS, VBA  
 - **Frameworks/Tools:** Node.JS, Express, Excel, Salesforce  
 - **Languages:** Fluent in English and Spanish  
